@@ -72,7 +72,8 @@ Step 3: Paste the youtube url into the box.
 Step 4: Check the csv exporting into Drive (My Drive) after finishing.
 *Format csv file name: youtube_subtitle_yyyy-mm-dd_hourmin.csv*.
 
-![[Pasted image 20240425201402.png]]
+![image](https://github.com/DavidTram0311/youtube-subtitles/assets/90774831/663f3214-1380-4ed0-8805-32f7bf76dc72)
+
 ## 2.Retrieving youtube video subtitle from multiple youtube url
 
 Step 1: Run all code (CTRL  + F9).
@@ -81,9 +82,11 @@ Step 2: Type 2 to choose the second method (input multiple URL).
 
 Step 3: Choose csv or excel file contains youtube links from computer.
 *Format file:*
-![[Pasted image 20240425200853.png]]
+
+![image](https://github.com/DavidTram0311/youtube-subtitles/assets/90774831/20a115b4-9c5c-495e-9fa0-f388083916b4)
+
 
 Step 4: Check the csv exporting into Drive (My Drive) after finishing.
 *Format csv file name: youtube_subtitle_yyyy-mm-dd_hourmin.csv.*
 
-![[Pasted image 20240425201350.png]]
+![image](https://github.com/DavidTram0311/youtube-subtitles/assets/90774831/663f3214-1380-4ed0-8805-32f7bf76dc72)
